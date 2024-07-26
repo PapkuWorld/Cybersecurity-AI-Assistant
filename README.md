@@ -10,10 +10,12 @@ Plotly
 
 
 llama 3.1
-
+1.8TB 
 
 
 ![brain](https://github.com/user-attachments/assets/db1980be-082a-435b-8c53-7ad54d0dbada)
+
+344 TB - 3,440 TB Connections in 1 ea -86b neurons 
 
 Frontal Lobe (Judgement, Foresight and Voluntary Movement 
 
@@ -27,7 +29,7 @@ Motor Cortex  (Movement)
 
 Central Suicus
 
-Brainstem (Swallowing, breathing, heartbeat, wakefulness center and invoulentary functions)
+Brainstem (heartbeat, wakefulness center and invoulentary functions)
 
 Sensory Cortex (pain, heat and other sensations) 
 
