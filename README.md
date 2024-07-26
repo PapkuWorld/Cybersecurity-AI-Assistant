@@ -8,9 +8,12 @@ Feed = STEM Degrees
 Polymorphic and Metamorphic Code Generation 
 
 Connects to the Decentralized network
+
 Connects to the rat-botnet 
+
 connects to the Go-ransomware 
 
+Cryptocurrency chain
 
 
 
