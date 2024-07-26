@@ -1,7 +1,35 @@
 Development Team consists of:
 
 Preparation for AGI - Connect to Remote Artificial Superintelligence Servers
-Next generation of hackers will mess you up! 
+Next generation of hackers will mess you up!  # skynet 
+
+Feed = STEM Degrees
+
+Polymorphic and Metamorphic Code Generation 
+
+Connects to the Decentralized network
+Connects to the rat-botnet 
+connects to the Go-ransomware 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Core
 
@@ -9,8 +37,7 @@ Core
 Plotly
 
 
-llama 3.1
-1.8TB 
+llama 3.1 is 1.8TB 
 
 
 ![brain](https://github.com/user-attachments/assets/db1980be-082a-435b-8c53-7ad54d0dbada)
